@@ -1,6 +1,6 @@
 # Robotic Arm Pick-and-Place (Klampt)
 
-## What I've done'
+## What I've done
 
 - Loaded a robot model (`tx90l.rob`) into a Klampt `WorldModel`
 - Built a scene with:
